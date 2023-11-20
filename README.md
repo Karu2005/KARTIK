@@ -1,2 +1,2 @@
 # KARTIK
-This is my first git repositry
+This is my first Git Repository
